@@ -12,10 +12,11 @@ A minimalistic marketing page.
 
 This primary goal of this project was to learn the following topics:
 
--   Agile Development
--   Design Systems
--   Next.js
--   Responsive Layout
+- Agile Development
+- Design Systems
+- Next.js
+- Tailwind CSS
+- Responsive Layout
 
 ## Installation
 
@@ -36,7 +37,7 @@ $ npm run dev
 
 ## Credits
 
-[Untitled UI](https://untitledui.com) - This project uses Untitled UI's design system
+[Untitled UI](https://www.untitledui.com/free-figma-ui-kit) - This project uses Untitled UI's design system
 
 ## Other Projects I've Built
 
