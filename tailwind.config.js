@@ -29,7 +29,7 @@ module.exports = {
     fontSize: {
       base: ['1rem', '1.5rem'],
       lg: ['1.125rem', '1.75rem'],
-      xl: ['1.25', '1.875rem'],
+      xl: ['1.25rem', '1.875rem'],
       '4xl': ['2.25rem', { letterSpacing: '-0.02em', lineHeight: '2.75rem' }],
       '5xl': ['3rem', { letterSpacing: '-0.02em', lineHeight: '3.75rem' }],
       '6xl': ['3.75rem', { letterSpacing: '-0.02em', lineHeight: '4.5rem' }],
