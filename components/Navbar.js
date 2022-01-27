@@ -27,7 +27,7 @@ const Navbar = () => {
     ));
   };
   return (
-    <nav className='bg-gray-50 sticky top-0'>
+    <nav className='bg-gray-50 sticky top-0 z-10'>
       <div className='flex justify-between items-center p-4 pr-3 md:px-8 md:py-4.5 max-w-7xl mx-auto'>
         <QuarksLogo />
         <button className='p-2 md:hidden' onClick={() => setOpen(!open)}>
