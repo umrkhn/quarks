@@ -22,3 +22,189 @@ export const QuarksLogo = () => {
     </svg>
   );
 };
+
+export const Zap = () => {
+  return (
+    <svg
+      width='40'
+      height='40'
+      viewBox='0 0 46 46'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+      style={{ width: '100%', height: '100%' }}
+    >
+      <rect x='3' y='3' width='40' height='40' rx='20' fill='#F4EBFF' />
+      <path
+        d='M23.8333 14.6666L15.5 24.6666H23L22.1667 31.3333L30.5 21.3333H23L23.8333 14.6666Z'
+        stroke='#7F56D9'
+        strokeWidth='1.66667'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+      />
+      <rect
+        x='3'
+        y='3'
+        width='40'
+        height='40'
+        rx='20'
+        stroke='#F9F5FF'
+        strokeWidth='6'
+      />
+    </svg>
+  );
+};
+
+export const Smile = () => {
+  return (
+    <svg
+      width='40'
+      height='40'
+      viewBox='0 0 46 46'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+      style={{ width: '100%', height: '100%' }}
+    >
+      <rect x='3' y='3' width='40' height='40' rx='20' fill='#F4EBFF' />
+      <path
+        d='M19.6666 24.6666C19.6666 24.6666 20.9166 26.3333 23 26.3333C25.0833 26.3333 26.3333 24.6666 26.3333 24.6666M20.5 20.5H20.5083M25.5 20.5H25.5083M31.3333 23C31.3333 27.6023 27.6023 31.3333 23 31.3333C18.3976 31.3333 14.6666 27.6023 14.6666 23C14.6666 18.3976 18.3976 14.6666 23 14.6666C27.6023 14.6666 31.3333 18.3976 31.3333 23Z'
+        stroke='#7F56D9'
+        strokeWidth='1.66667'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+      />
+      <rect
+        x='3'
+        y='3'
+        width='40'
+        height='40'
+        rx='20'
+        stroke='#F9F5FF'
+        strokeWidth='6'
+      />
+    </svg>
+  );
+};
+
+export const Mail = () => {
+  return (
+    <svg
+      width='40'
+      height='40'
+      viewBox='0 0 46 46'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+      style={{ width: '100%', height: '100%' }}
+    >
+      <rect x='3' y='3' width='40' height='40' rx='20' fill='#F4EBFF' />
+      <path
+        d='M31.3333 18C31.3333 17.0834 30.5833 16.3334 29.6666 16.3334H16.3333C15.4166 16.3334 14.6666 17.0834 14.6666 18M31.3333 18V28C31.3333 28.9167 30.5833 29.6667 29.6666 29.6667H16.3333C15.4166 29.6667 14.6666 28.9167 14.6666 28V18M31.3333 18L23 23.8334L14.6666 18'
+        stroke='#7F56D9'
+        strokeWidth='1.66667'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+      />
+      <rect
+        x='3'
+        y='3'
+        width='40'
+        height='40'
+        rx='20'
+        stroke='#F9F5FF'
+        strokeWidth='6'
+      />
+    </svg>
+  );
+};
+
+export const BarChart2 = () => {
+  return (
+    <svg
+      width='40'
+      height='40'
+      viewBox='0 0 46 46'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+      style={{ width: '100%', height: '100%' }}
+    >
+      <rect x='3' y='3' width='40' height='40' rx='20' fill='#F4EBFF' />
+      <path
+        d='M28 29.6667V21.3334M23 29.6667V16.3334M18 29.6667V24.6667'
+        stroke='#7F56D9'
+        strokeWidth='1.66667'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+      />
+      <rect
+        x='3'
+        y='3'
+        width='40'
+        height='40'
+        rx='20'
+        stroke='#F9F5FF'
+        strokeWidth='6'
+      />
+    </svg>
+  );
+};
+
+export const Command = () => {
+  return (
+    <svg
+      width='40'
+      height='40'
+      viewBox='0 0 46 46'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+      style={{ width: '100%', height: '100%' }}
+    >
+      <rect x='3' y='3' width='40' height='40' rx='20' fill='#F4EBFF' />
+      <path
+        d='M28 15.5C27.337 15.5 26.7011 15.7634 26.2322 16.2322C25.7634 16.7011 25.5 17.337 25.5 18V28C25.5 28.663 25.7634 29.2989 26.2322 29.7678C26.7011 30.2366 27.337 30.5 28 30.5C28.663 30.5 29.2989 30.2366 29.7678 29.7678C30.2366 29.2989 30.5 28.663 30.5 28C30.5 27.337 30.2366 26.7011 29.7678 26.2322C29.2989 25.7634 28.663 25.5 28 25.5H18C17.337 25.5 16.7011 25.7634 16.2322 26.2322C15.7634 26.7011 15.5 27.337 15.5 28C15.5 28.663 15.7634 29.2989 16.2322 29.7678C16.7011 30.2366 17.337 30.5 18 30.5C18.663 30.5 19.2989 30.2366 19.7678 29.7678C20.2366 29.2989 20.5 28.663 20.5 28V18C20.5 17.337 20.2366 16.7011 19.7678 16.2322C19.2989 15.7634 18.663 15.5 18 15.5C17.337 15.5 16.7011 15.7634 16.2322 16.2322C15.7634 16.7011 15.5 17.337 15.5 18C15.5 18.663 15.7634 19.2989 16.2322 19.7678C16.7011 20.2366 17.337 20.5 18 20.5H28C28.663 20.5 29.2989 20.2366 29.7678 19.7678C30.2366 19.2989 30.5 18.663 30.5 18C30.5 17.337 30.2366 16.7011 29.7678 16.2322C29.2989 15.7634 28.663 15.5 28 15.5Z'
+        stroke='#7F56D9'
+        strokeWidth='1.66667'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+      />
+      <rect
+        x='3'
+        y='3'
+        width='40'
+        height='40'
+        rx='20'
+        stroke='#F9F5FF'
+        strokeWidth='6'
+      />
+    </svg>
+  );
+};
+
+export const MessageCircle = () => {
+  return (
+    <svg
+      width='40'
+      height='40'
+      viewBox='0 0 46 46'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+      style={{ width: '100%', height: '100%' }}
+    >
+      <rect x='3' y='3' width='40' height='40' rx='20' fill='#F4EBFF' />
+      <path
+        d='M30.5 22.5834C30.5029 23.6832 30.2459 24.7683 29.75 25.75C29.162 26.9265 28.2581 27.916 27.1395 28.6078C26.021 29.2995 24.7319 29.6662 23.4167 29.6667C22.3168 29.6696 21.2318 29.4126 20.25 28.9167L15.5 30.5L17.0833 25.75C16.5874 24.7683 16.3305 23.6832 16.3333 22.5834C16.3338 21.2682 16.7005 19.9791 17.3923 18.8605C18.084 17.7419 19.0735 16.838 20.25 16.25C21.2318 15.7541 22.3168 15.4972 23.4167 15.5H23.8333C25.5703 15.5959 27.2109 16.329 28.4409 17.5591C29.671 18.7892 30.4042 20.4297 30.5 22.1667V22.5834Z'
+        stroke='#7F56D9'
+        strokeWidth='1.66667'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+      />
+      <rect
+        x='3'
+        y='3'
+        width='40'
+        height='40'
+        rx='20'
+        stroke='#F9F5FF'
+        strokeWidth='6'
+      />
+    </svg>
+  );
+};
