@@ -62,7 +62,7 @@ const FeatureSection = () => {
             sint iusto sequi eius ducimus omnis.
           </p>
         </div>
-        <div className='grid gap-y-10 mt-12 md:mt-16 md:grid-flow-col md:gap-x-8 md:gap-y-16 md:grid-cols-3 md:grid-rows-2'>
+        <div className='grid gap-y-10 mt-12 md:mt-16 md:gap-x-8 md:gap-y-16 sm:grid-cols-2 lg:grid-cols-3'>
           {renderFeatures()}
         </div>
       </div>
