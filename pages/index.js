@@ -4,7 +4,7 @@ import HeroSection from '../components/HeroSection';
 import FeatureSection from '../components/FeatureSection';
 import Testimonial from '../components/Testimonial';
 import PricingSection from '../components/PricingSection';
-
+import FaqSection from '../components/FaqSection';
 export default function Home() {
   return (
     <div>
@@ -20,6 +20,7 @@ export default function Home() {
         <FeatureSection />
         <Testimonial />
         <PricingSection />
+        <FaqSection />
       </div>
     </div>
   );
