@@ -6,6 +6,7 @@ import Testimonial from '../components/Testimonial';
 import PricingSection from '../components/PricingSection';
 import FaqSection from '../components/FaqSection';
 import MetricSection from '../components/MetricSection';
+import Cta from '../components/Cta';
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
         <PricingSection />
         <FaqSection />
         <MetricSection />
+        <Cta />
       </div>
     </div>
   );
