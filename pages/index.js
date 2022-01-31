@@ -7,6 +7,7 @@ import PricingSection from '../components/PricingSection';
 import FaqSection from '../components/FaqSection';
 import MetricSection from '../components/MetricSection';
 import Cta from '../components/Cta';
+import Footer from '../components/Footer';
 
 export default function Home() {
   return (
@@ -26,6 +27,7 @@ export default function Home() {
         <FaqSection />
         <MetricSection />
         <Cta />
+        <Footer />
       </div>
     </div>
   );
