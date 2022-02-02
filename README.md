@@ -1,16 +1,6 @@
-# Quarks
-
-A minimalistic marketing page.
-
-![badge](https://img.shields.io/badge/Quarks-v1.0.0-brightgreen)
-
-![Group 1](https://user-images.githubusercontent.com/91739815/148238151-390bfb3d-f17b-4308-8b95-fb3b54b8fded.png)
-
-## Live Preview
-
 ## Motivation
 
-This primary goal of this project was to learn the following topics:
+The primary goal of this project was to learn the following topics:
 
 - Agile Development
 - Design Systems
@@ -32,8 +22,6 @@ $ npm install
 # Start development server
 $ npm run dev
 ```
-
-## Usage
 
 ## Credits
 
