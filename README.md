@@ -1,3 +1,5 @@
+![portfolio-mockup](https://user-images.githubusercontent.com/91739815/152428596-9677ca28-3387-455b-b6a5-66d57578ba3d.jpg)
+
 ## Motivation
 
 The primary goal of this project was to learn the following topics:
